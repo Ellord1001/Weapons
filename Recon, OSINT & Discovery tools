@@ -1,0 +1,50 @@
+##Bug-Bounty-Hunters 
+###tools
+
+- [FFuF] (https://github.com/ffuf/ffuf)
+A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.
+
+- [Sublist3r] (https://github.com/aboul3la/Sublist3r)
+Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
+
+- [dirsearch] (https://github.com/maurosoria/dirsearch)
+dirsearch is a simple command-line tool designed to brute force directories and files in websites.
+
+- [Amass] (https://github.com/OWASP/Amass)
+Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.
+
+- [BuiltWith] (https://builtwith.com/)
+A very handy Browser Extension (for Chrome, Firefox) that checks for more than 18,000 types of internet technologies. Gives you a very quick glance on what a Web Application is built.
+
+- [findomain] (https://github.com/Edu4rdSHL/findomain)
+Very fast cross-platform subdomain enumerator
+
+- [waybackurls] (https://github.com/tomnomnom/waybackurls)
+Fetch all the URLs that the Wayback Machine knows about for a domain
+
+- [Osmedeus] (https://github.com/j3ssie/Osmedeus)
+Fully automated offensive security framework for reconnaissance and vulnerability scanning
+
+- [hakrawler] (https://github.com/hakluke/hakrawler)
+hakrawler is a Go web crawler designed for easy, quick discovery of endpoints and assets within a web application. It can be used to discover Forms, Endpoints, Subdomains, Related documents and JS Files
+
+- [Reconness] (https://github.com/reconness)
+A Web App Tool to Run and Keep all your #recon in the same place.
+
+- [Knockpy] (https://github.com/guelfoweb/knock)
+A python tool designed to enumerate subdomains on a target domain through a wordlist
+
+- [crithit] (https://github.com/codingo/crithit)
+Takes a single wordlist item and tests it one by one over a large collection of hosts before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.
+
+- [nuclei] (https://github.com/projectdiscovery/nuclei)
+"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."
+
+- [SpiderFoot] (https://github.com/smicallef/spiderfoot)
+SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more.
+
+- [subfinder] (https://github.com/projectdiscovery/subfinder)
+subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.
+
+- [SUBway] (https://github.com/Sam-Lane/subway) 
+Enumerate subdomains by either using DNS lookup or by virtual hosting HTTP requests, useful for things like Hack The Box or Try Hack Me. SUBway requires a wordlist to use for subdomain discovery, SecLists is the recomended pairing for use with this tool.
